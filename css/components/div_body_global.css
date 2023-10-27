@@ -1,0 +1,14 @@
+#global {
+	padding-top: 1px;
+	margin-top: 1px;
+	background-image: url(../../images/background.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 10px;
+	justify-content: space-around;
+}
+
+iframe {
+	margin-left: 400px;
+	margin-top: 20px;
+}
